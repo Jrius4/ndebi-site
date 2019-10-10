@@ -8,7 +8,7 @@
             <div class="my-auto w-100 text-white">
     
           
-                {!!$title!!}                        
+                {!!$title=''!!}                        
                 
                 
             </div>
